@@ -1,5 +1,9 @@
 import java.util.Arrays;
 
+/**
+* An implementation of the video: https://www.youtube.com/watch?v=SCBf7aqKQEY
+*/
+
 public class ShellSort {
 
 	public void shellSort(int[] A) {
